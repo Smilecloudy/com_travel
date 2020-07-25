@@ -37,16 +37,6 @@ angular.module("yanxuan").service("restService", function ($http) {
     };
 
     /**
-     * patch请求
-     * @param url
-     * @param entity
-     * @returns {HttpPromise}
-     */
-    this.patch = function (url,entity) {
-        return $http.patch(url, entity);
-    };
-
-    /**
      * delete请求
      * @param url
      * @param id
@@ -57,5 +47,15 @@ angular.module("yanxuan").service("restService", function ($http) {
             url = url + "/"+id;
         }
         return $http.delete(url);
+    };
+
+    /**
+     * patch请求
+     * @param url
+     * @param entity
+     * @returns {HttpPromise}
+     */
+    this.patch = function (url, entity) {
+        return $http.patch(url, entity);
     }
 });

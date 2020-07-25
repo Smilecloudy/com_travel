@@ -1,1 +1,1 @@
-angular.module("yanxuan", []);
+angular.module("yanxuan",[]);

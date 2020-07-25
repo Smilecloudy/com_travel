@@ -1,5 +1,6 @@
 package com.it.yanxuan.ad.service.impl;
 
+import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.PageHelper;
 import com.it.yanxuan.ad.api.IAdInfoService;
 import com.it.yanxuan.mapper.AdInfoMapper;
@@ -13,6 +14,7 @@ import org.springframework.data.redis.core.RedisTemplate;
  * @auther: cyb
  * @create: 2020/7/24 12:06
  */
+@Service
 public class AdInfoServiceImpl implements IAdInfoService {
     @Autowired
     private AdInfoMapper adInfoMapper;

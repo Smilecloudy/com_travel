@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5575a413-2f76-4c34-9ef5-3c36c27f52b8" name="Default Changelist" comment="" />
+    <list default="true" id="5575a413-2f76-4c34-9ef5-3c36c27f52b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lucene/lucene-01-curd/lucene-01-curd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lucene/lucene-01-start/lucene-01-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lucene/lucene-01-starter/lucene-01-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo-01-servicedemo/dubbo-01-servicedemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo_demo_consumer/dubbo_demo_consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/dubbo_demo_service/dubbo_demo_service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dubbo/mybaits_genertor/mybaits_genertor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../examWeb/examWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jiguangyanxuan_parentXXXXXX/jiguangyanxuan_model/jiguangyanxuan-model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jiguangyanxuan_parentXXXXXX/jiguangyanxuan_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/jpa-01-api/jpa-01-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/jpa-01-jpql/jpa-01-jpql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/jpa-01-one2one/jpa-01-one2one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpa/jpa-01-starter/jpa-01-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/crud/crud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-01-class/mybatis-01-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-01-interface/mybatis-01-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-02-DynaSql/mybatis-02-DynaSql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-02-jndi/mybatis-02-jndi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-02-sqlMapConfig/mybatis-02-sqlMapConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-02/mybatis-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day01/mybatis-03-one2one/mybatis-03-one2one.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis-day02/mybatis-03-one2many/mybatis-03-one2many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/mybatis-01-onInterfice/mybatis-01-onInterfice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/mybatis-01-starter/mybatis-01-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solr-demo/solr-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-01-anno/spring-01-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-01-di/spring-01-di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-01-java/spring-01-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-01-other/spring-01-other.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-01-start/spring-01-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-AOP-anno/spring-02-AOP-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-AOP-java/spring-02-AOP-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-AOP-xml/spring-02-AOP-xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-proxy/spring-02-proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-proxy1/spring-02-proxy1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-test/spring-02-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-02-test1/spring-02-test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-03-springJDBC/spring-03-springJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-03-tx-anno/spring-03-tx-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-03-tx-java/spring-03-tx-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/spring-03-tx-xml/spring-03-tx-xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springSecurity/spring_demo/spring_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/exam/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/exam2/exam2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-02-ajax/spring-02-ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-02-request/spring-02-request.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-02-response/spring-02-response.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-02-upload/spring-02-upload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-03-download/spring-03-download.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-03-intercptor/spring-03-intercptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-03-monitor/spring-03-monitor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/spring-03-monitor02/spring-03-monitor02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc-01-curl/springmvc-01-curl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc-01-curl1/springmvc-01-curl1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc-01-hello/springmvc-01-hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc-01-starter/springmvc-01-starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc/springmvc-01-web/springmvc-01-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/exam03/exam03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/exam03/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/shopV2.0/shopV2.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/ssm-01-exe/ssm-01-exe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/ssm-01-integrate/ssm-01-integrate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiguangyanxuan_ad_service/src/main/java/com/it/yanxuan/ad/service/impl/AdInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jiguangyanxuan_ad_service/src/main/java/com/it/yanxuan/ad/service/impl/AdInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jiguangyanxuan_ad_service/target/classes/com/it/yanxuan/ad/service/impl/AdInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jiguangyanxuan_ad_service/target/classes/com/it/yanxuan/ad/service/impl/AdInfoServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +105,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,6 +124,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dhbbncGzzCbz2UpTsNEJCOSWcn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -65,6 +138,7 @@
     <property name="MyBatisLogPluginpreparing" value="Preparing:" />
     <property name="MyBatisLogPluginrunning" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jiguangyanxuan_search_service/src/main/resources/spring" />
@@ -556,7 +630,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.portal_server:9903">
+  <component name="RunManager" selected="Maven.ad_service:8802">
     <configuration name="FastDFSClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.it.yanxuan.test.FastDFSClientTest" />
       <module name="jiguangyanxuan_seller_server" />
@@ -825,6 +899,7 @@
       <workItem from="1595054395310" duration="16459000" />
       <workItem from="1595168951781" duration="32897000" />
       <workItem from="1595402353941" duration="23819000" />
+      <workItem from="1595675316470" duration="582000" />
     </task>
     <servers />
   </component>
@@ -900,38 +975,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="158" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595402460394" />
-    <state width="1876" height="564" key="GridCell.Tab.0.bottom" timestamp="1595594696976">
+    <state width="1876" height="362" key="GridCell.Tab.0.bottom" timestamp="1595675978651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="564" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595594696976" />
-    <state width="1876" height="564" key="GridCell.Tab.0.center" timestamp="1595594696976">
+    <state width="1876" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595675978651" />
+    <state width="1876" height="362" key="GridCell.Tab.0.center" timestamp="1595675978650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="564" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595594696976" />
-    <state width="1876" height="564" key="GridCell.Tab.0.left" timestamp="1595594696976">
+    <state width="1876" height="362" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595675978650" />
+    <state width="1876" height="362" key="GridCell.Tab.0.left" timestamp="1595675978650">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="564" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595594696976" />
-    <state width="1876" height="564" key="GridCell.Tab.0.right" timestamp="1595594696976">
+    <state width="1876" height="362" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595675978650" />
+    <state width="1876" height="362" key="GridCell.Tab.0.right" timestamp="1595675978651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="564" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595594696976" />
-    <state width="1876" height="337" key="GridCell.Tab.1.bottom" timestamp="1595337366705">
+    <state width="1876" height="362" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595675978651" />
+    <state width="1876" height="337" key="GridCell.Tab.1.bottom" timestamp="1595675494178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595337366705" />
-    <state width="1876" height="337" key="GridCell.Tab.1.center" timestamp="1595337366705">
+    <state width="1876" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595675494178" />
+    <state width="1876" height="337" key="GridCell.Tab.1.center" timestamp="1595675494178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595337366705" />
-    <state width="1876" height="337" key="GridCell.Tab.1.left" timestamp="1595337366705">
+    <state width="1876" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595675494178" />
+    <state width="1876" height="337" key="GridCell.Tab.1.left" timestamp="1595675494178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595337366705" />
-    <state width="1876" height="337" key="GridCell.Tab.1.right" timestamp="1595337366705">
+    <state width="1876" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595675494178" />
+    <state width="1876" height="337" key="GridCell.Tab.1.right" timestamp="1595675494178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595337366705" />
+    <state width="1876" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595675494178" />
     <state x="440" y="198" key="IDE.errors.dialog" timestamp="1595476474236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
